@@ -1,27 +1,79 @@
 # Service Ticket Dashboard
 
-## Overview
-Interactive Power BI dashboard to monitor service desk performance using Excel data.
+## Dashboard Preview
 
-## Tools
-Power BI, Excel, DAX
+![Dashboard](dashboard.png)
 
-## KPIs
+---
+
+## 📌 Project Overview
+
+This project presents an interactive Power BI dashboard to monitor service desk operations. It helps track ticket volumes, SLA adherence, resolution times, pending tickets, and team performance.
+
+---
+
+## 🎯 Business Problem
+
+Support teams need real-time visibility into ticket status and SLA compliance to improve service quality and reduce resolution time. This dashboard provides actionable insights for operational decision-making.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Power BI
+- Microsoft Excel
+- DAX
+- Data Visualization
+
+---
+
+## 📊 Dashboard Features
+
 - Total Tickets
-- Closed Tickets
-- Open Tickets
-- Pending Tickets
-- SLA Adherence %
+- Open vs Closed Tickets
+- SLA Adherence
 - Average Resolution Time
+- Pending Tickets
+- Team Performance
+- Interactive Filters
 
-## Visuals
-- KPI Cards
-- Tickets by Team
-- Ticket Status Distribution
-- Tickets by Priority
-- Average Resolution Time by Team
-- Monthly Ticket Trend
-- Slicers
+---
 
-## Skills
-Power BI, Excel, DAX, Dashboard Design, Data Visualization
+## 📂 Dataset
+
+The dataset contains:
+
+- Ticket ID
+- Priority
+- Status
+- Assigned Team
+- Resolution Time
+- SLA Status
+- Created Date
+- Closed Date
+
+---
+
+## 💡 Key Insights
+
+- Monitored SLA compliance across teams.
+- Identified ticket backlogs.
+- Measured average resolution time.
+- Compared team performance.
+- Improved operational visibility.
+
+---
+
+## 📁 Files Included
+
+- Service_Ticket_Dashboard.pbix
+- Service_Ticket_Data.xlsx
+- Project_Report.pdf
+
+---
+
+## 👩‍💻 Author
+
+**Sushma Rakesh**
+
+Power BI | SQL | Python | Business Analytics | GenAI
